@@ -16,4 +16,4 @@ Computer Science Awesome List
 
 ## Run Time Complexity
 
-- []
+- [Constant time O(1)](https://repl.it/@thinkful/constant-runtime-example)
