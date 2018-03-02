@@ -7,7 +7,7 @@ Computer Science Awesome List
 - [Big O Notation in JavaScript](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - [Big 0 - Linear Sum Demo](https://repl.it/@JesseShaw/linearsumdemo)
 
-<img width="400" src="computersciencerepository/big0/BigO.png" alt="Big0 complexity">
+<img width="400" src="https://raw.githubusercontent.com/thejesseshaw/computersciencerepository/master/big0/BigO.png" alt="Big0 complexity">
 
 ## Recursion
 
