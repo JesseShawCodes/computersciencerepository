@@ -4,4 +4,4 @@ Computer Science Awesome List
 
 ## Big 0
 
-- [Big O Notation in JavaScript] (https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
+- [Big O Notation in JavaScript](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
