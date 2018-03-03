@@ -24,7 +24,7 @@ Computer Science Awesome List
 <img width="400" src="https://raw.githubusercontent.com/thejesseshaw/computersciencerepository/master/big0/BigO.png" alt="Big0 complexity">
 
 | Big-O Notation | n = 10	| n = 100	| n = 1000|
-| -------------- |:--------:|:---------:| -------:|
+| -------------- |:--------:|:---------:| :-------:|
 |O(1)            |	1	    |1	        |1        |
 |O(log n)        |	3	    |6	        |9        |
 |O(n)	         |10        |100        |1000     |
