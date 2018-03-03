@@ -17,5 +17,7 @@ Computer Science Awesome List
 ## Run Time Complexity
 
 - [Constant time O(1)](https://repl.it/@thinkful/constant-runtime-example)
-- [Logarithmic time O(log(n))](https://repl.it/@thinkful/constant-runtime-example)
-- [Linear time O(n)](https://repl.it/@thinkful/constant-runtime-example)
+- [Logarithmic time O(log(n))](https://repl.it/@thinkful/logarithmic-num-less-than-demo)
+- [Linear time O(n)](https://repl.it/@thinkful/find-min-linear-demo)
+- [Polynomial time O(n^k)](https://repl.it/@thinkful/has-duplicates-polynomial-demo)
+- [Exponential time O(2^n)](https://repl.it/@thinkful/count-triangle-exponential-demo)
