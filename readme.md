@@ -39,3 +39,8 @@ Computer Science Awesome List
 ## Two's Compliment
 
 - [Interger to Twos Comp (May need to be tested further)](https://repl.it/@JesseShaw/TwosCompliment)
+
+
+## Logical Operators
+
+-[Even Odd Exercise for AND(&) Operator](https://repl.it/@JesseShaw/BitwiseAndOperatorEVENODD)
