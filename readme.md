@@ -30,3 +30,12 @@ Computer Science Awesome List
 |O(n)	         |10        |100        |1000     |
 |O(n^2)          |100       |10000      |1000000  |
 |O(2^n)          |1024      |2^100      |2^1000   |
+
+## Binary and Bitwise Operators
+
+- [Binary to Decimal Conversion](https://repl.it/@JesseShaw/BinaryDeceminalConversion)
+- [Decimal to Binary Conversion](https://repl.it/@JesseShaw/NumericalToBinary)
+
+## Two's Compliment
+
+- [Interger to Twos Comp (May need to be tested further)](https://repl.it/@JesseShaw/TwosCompliment)
