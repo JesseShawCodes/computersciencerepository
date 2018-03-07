@@ -44,3 +44,6 @@ Computer Science Awesome List
 ## Logical Operators
 
 -[Even Odd Exercise for AND(&) Operator](https://repl.it/@JesseShaw/BitwiseAndOperatorEVENODD)
+-[Or Operator Exercise](https://repl.it/@JesseShaw/orOperatorExercise)
+-[Xor Operator Exercise](https://repl.it/@JesseShaw/XorOperators)
+-[Not Operator](https://repl.it/@JesseShaw/notOperator)
