@@ -61,7 +61,11 @@ Write a function that takes in a decimal value and a value that represents the n
 
 Modify your existing shift function to also calculate a right-shifted value. Compare the values which you get from your left-shift and right-shift functions.
 
--[Shift Operator](https://repl.it/@JesseShaw/shiftOperators)
+Modify your existing shift function to also calculate a zero-fill right-shifted value. Compare the values which you get from your three different type of shift operator.
+
+For non-negative numbers, does the zero-fill right shift operator differ from the right shift operator in terms of producing the end result? Why or why not? Eg. 11 >>> 4 vs 11 >> 4
+
+-[Shift Operators](https://repl.it/@JesseShaw/shiftOperators)
 
 ### Interview Questions
 
