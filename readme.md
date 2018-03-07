@@ -47,3 +47,26 @@ Computer Science Awesome List
 -[Or Operator Exercise](https://repl.it/@JesseShaw/orOperatorExercise)
 -[Xor Operator Exercise](https://repl.it/@JesseShaw/XorOperators)
 -[Not Operator](https://repl.it/@JesseShaw/notOperator)
+
+### Interview Questions
+
+*Write a function which sets the third bit of a number.
+*Write a function which toggles the third bit of a number.
+*Write a function which clears (sets to zero) the third bit of a number.
+*Write a function which tells you whether the third bit of a number is set.
+
+## Shift Operators
+
+Write a function that takes in a decimal value and a value that represents the number of bit positions to shift left with. Return or print out the final base 10 value after the shift. Include verification
+
+Modify your existing shift function to also calculate a right-shifted value. Compare the values which you get from your left-shift and right-shift functions.
+
+-[Shift Operator](https://repl.it/@JesseShaw/shiftOperators)
+
+### Interview Questions
+
+*Write a function which doubles an integer.
+*Write a function which quadruples an integer.
+*Write a function which divides an integer by two, rounding down.
+*Write a function which calculates 2^n.
+*Write a function which calculates the Morton Number from two 8-bit integers. In a Morton Number, the bits of two numbers are interleaved. So if your inputs were: 15 (00001111) and 48 (00110000), your output would be 1450 (0000010110101010).
