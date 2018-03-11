@@ -4,6 +4,7 @@ Computer Science Awesome List
 
 ## Big 0
 
+- [Big O Cheat Sheet](http://bigocheatsheet.com/)
 - [Big O Notation in JavaScript](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 - [Big 0 - Linear Sum Demo](https://repl.it/@JesseShaw/linearsumdemo)
 
@@ -95,3 +96,7 @@ You can use JavaScript's built in arrays rather than your Array object to answer
 *Given an array of numbers, write an algorithm to find out the products of every number, except the one at that index. For example, if the input was [1, 3, 9, 4], the output should be [108, 36, 12, 27] (i.e. [3*9*4, 1*9*4, 1*3*4, 1*3*9]).
 
 -[May not be super efficent. Need to update](https://repl.it/@JesseShaw/ThunderousHappySystem)
+
+##Linked Lists
+
+-[https://medium.freecodecamp.org/a-gentle-introduction-to-data-structures-how-linked-lists-work-5adc793897dd](A Gentle Introduction to Data Structures: How Linked Lists Work)
