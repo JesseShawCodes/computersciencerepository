@@ -100,3 +100,30 @@ You can use JavaScript's built in arrays rather than your Array object to answer
 ##Linked Lists
 
 -[https://medium.freecodecamp.org/a-gentle-introduction-to-data-structures-how-linked-lists-work-5adc793897dd](A Gentle Introduction to Data Structures: How Linked Lists Work)
+
+###Interview Questions
+
+*Write an algorithm to find the middle element of a linked list without using the .length property
+*Write an algorithm to find the third element from the end of a linked list without using the .length property
+*Write an algorithm to reverse a linked list
+*Write an algorithm to find whether a linked list has a cycle (i.e. whether a node in the list has its next value pointing to an earlier node in the list)
+
+##Hash Maps
+
+-[https://www.youtube.com/watch?time_continue=440&v=MfhjkfocRR0](VIDEO: What is a HashTable Data Structure - Introduction to Hash Tables , Part 0)
+-[https://medium.com/coderbyte/importance-of-hash-tables-c429a2b523b8](The Importance of Hash Tables)
+-[http://www.cse.yorku.ca/~oz/hash.html](djb2 algorithm)
+
+###Interview Questions
+
+*Write an algorithm to check whether any permutation of a string is a palindrome. A palindrome is a string that reads the same forwards and backwards: for example, "madam" or "racecar". Your algorithm needs to check if any permutation of the string is a palindrome. Given the string "acecarr", the algorithm should return true, because the letters in "acecarr" can be rearranged to "racecar", which is a palindrome. In contrast, given the word "north", the algorithm should return false, because there's no way to rearrange those letters to be a palindrome.
+*Write an algorithm to group a list of words into anagrams. For example, if the input was ['east', 'cars', 'acre', 'arcs', 'teas', 'eats', 'race'], the output should be: [['east', 'teas', 'eats'], ['cars', 'arcs'], ['acre', 'race']].
+*Write a hash map implementation which uses separate chaining.
+
+##Binary Search Trees
+
+###Interview Questions
+
+*Write an algorithm to find the height of a binary search tree
+*Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates
+*Write an algorithm to find the third largest node in a binary search tree
