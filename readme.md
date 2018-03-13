@@ -127,3 +127,30 @@ You can use JavaScript's built in arrays rather than your Array object to answer
 *Write an algorithm to find the height of a binary search tree
 *Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates
 *Write an algorithm to find the third largest node in a binary search tree
+
+#Algorithms
+
+##Searching
+
+-[https://repl.it/@JesseShaw/searchAlgo](Search Algorithms)
+
+###Interview questions
+
+*The share price for a company over a week's trading is as follows: [128, 97, 121, 123, 98, 97, 105]. If you had to buy shares in the company on one day, and sell the shares on one of the following days, write an algorithm to work out what the maximum profit you could make would be.
+*Imagine that you wanted to find what the highest floor of a 100 story building you could drop an egg was, without the egg breaking. But you only have two eggs. Write an algorithm to work out which floors you should drop the eggs from to find this out in the most efficient way.
+*Imagine you are looking for a book in a library with a Dewey Decimal index. How would you go about it? Can you express this process as a searching algorithm?
+
+##Sorting
+
+###Medium Resources
+-[https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48](Alogirthms for beginners)
+
+###Repl
+-[https://repl.it/@JesseShaw/bubbleSort](Bubble Sort)
+-[https://repl.it/@JesseShaw/mergeSort](Merge Sort)
+
+###Interview Questions
+
+*Write an O(n) algorithm to sort an array of integers, where you know in advance what the lowest and highest values are.
+*Write an algorithm to shuffle an array into a random order in-place (i.e. without creating a new array).
+*Imagine that I gave you twenty books to sort in alphabetical order. How would you go about it? Can you express this as an algorithm?
