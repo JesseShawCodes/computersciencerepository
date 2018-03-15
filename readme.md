@@ -142,8 +142,9 @@ You can use JavaScript's built in arrays rather than your Array object to answer
 
 ##Sorting
 
-###Medium Resources
+###Great Resources
 -[https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48](Alogirthms for beginners)
+-[https://www.toptal.com/developers/sorting-algorithms/merge-sort](Sorting Animated)
 
 ###Repl
 -[https://repl.it/@JesseShaw/bubbleSort](Bubble Sort)
