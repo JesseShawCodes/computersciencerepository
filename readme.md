@@ -146,6 +146,9 @@ You can use JavaScript's built in arrays rather than your Array object to answer
 -[https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48](Alogirthms for beginners)
 -[https://www.toptal.com/developers/sorting-algorithms/merge-sort](Sorting Animated)
 
+####Insertion Sort
+-[https://www.youtube.com/watch?v=kU9M51eKSX8](Insertion Sort Demo)
+
 ###Repl
 -[https://repl.it/@JesseShaw/bubbleSort](Bubble Sort)
 -[https://repl.it/@JesseShaw/mergeSort](Merge Sort)
